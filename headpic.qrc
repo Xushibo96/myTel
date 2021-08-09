@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/head">
+        <file>demo/28b5e2c0b2f7ea69c26fb45fb34e86b6.jpeg</file>
+        <file>demo/71a368750374cc51f0f92a3d92c1e114.jpeg</file>
+        <file>demo/53764ed79c19cdf6d18e4723034c293f.jpeg</file>
+        <file>demo/bbc501de3602bae9aea675bac4911c8e.jpeg</file>
+        <file>demo/微信图片_20210803203905.jpg</file>
+        <file>demo/微信图片_20210803203922.jpg</file>
+        <file>demo/QQ.jpeg</file>
+    </qresource>
+</RCC>
