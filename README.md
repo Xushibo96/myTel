@@ -9,8 +9,8 @@ A very rudimentary peer-to-peer communication software
 udpSocket->writeDatagram(array,QHostAddress("10.30.3.165"),port);
 ```
 # 截图：
-主界面
+主界面  
 ![main](https://github.com/Xushibo96/myTel/blob/main/pic/mainmenu.png)  
 
-聊天界面
+聊天界面  
 ![chat](https://github.com/Xushibo96/myTel/blob/main/pic/chat.png)
